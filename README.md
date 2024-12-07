@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a human
+I am a human, maybe a little tired from doing all the projects...
 
 <!--
 **ByrKxZ/ByrKxZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
